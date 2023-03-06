@@ -1,0 +1,91 @@
+body{
+    background-color:thistle;
+}
+span{
+    display: inline-block;
+}
+h4{
+    text-align: center;
+}
+h2{
+    visibility: hidden;
+}
+p{
+    text-align: center;
+    text-decoration: dotted;
+}
+img{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.header{
+    text-align: center;
+}
+.baris1{
+    align-items: center;
+    text-align: center;
+}
+.baris2{
+    align-items: center;
+    text-align: center;
+}
+.card{
+    width: 200px;
+    height: 300px;
+    border-style: solid;
+    border-color:cadetblue;
+    border-radius: 14px;
+    background-color: aqua;
+}
+.card1{
+    width: 200px;
+    height: 300px;
+    border-style: solid;
+    border-color:cadetblue;
+    border-radius: 14px;
+    background-color: aqua;
+}
+.card2{
+    width: 200px;
+    height: 300px;
+    border-style: solid;
+    border-color:cadetblue;
+    border-radius: 14px;
+    background-color: aqua;
+}
+.card3{
+    width: 200px;
+    height: 300px;
+    border-style: solid;
+    border-color:cadetblue;
+    border-radius: 14px;
+    background-color: aqua;
+}
+.card4{
+    width: 200px;
+    height: 300px;
+    border-style: solid;
+    border-radius: 14px;
+    background-color:antiquewhite;
+}
+.card5{
+    width: 200px;
+    height: 300px;
+    border-style: solid;
+    border-radius: 14px;
+    background-color:antiquewhite;
+}
+.card6{
+    width: 200px;
+    height: 300px;
+    border-style: solid;
+    border-radius: 14px;
+    background-color:antiquewhite;
+}
+.card7{
+    width: 200px;
+    height: 300px;
+    border-style: solid;
+    border-radius: 14px;
+    background-color:antiquewhite;
+}
